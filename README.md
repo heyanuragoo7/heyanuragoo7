@@ -6,9 +6,7 @@
 
 🌱 **Currently learning:** Advanced System Design & GenAI
 
-⏳ **Exploring:** Prisma + PostgreSQL optimization
-
-😄 **Pronouns:** he / him
+⏳ **Exploring:** DevOps – Kubernetes, Jenkins & Terraform
 
 🎯 **Life Hack:** "Build. Break. Learn. Repeat."
 
