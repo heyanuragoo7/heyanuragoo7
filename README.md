@@ -1,14 +1,14 @@
 # Hi there 👋🏽, I'm Anurag
 
-🚀 A Full-stack developer with a problem-solving mindset.
+🚀 Full-Stack Developer with a strong problem-solving mindset, focused on building scalable, reliable, and user-centric applications.
 
-👨🏽‍💻 **Tech Explorer** • Full Stack Development | DevOps Engineering | Databases | Realtime Apps
+👨🏽‍💻 **Tech Explorer** • Full Stack Development | Backend Systems | Databases | Docker & Deployment | Realtime Apps | GenAI Integrations
 
-🌱 **Currently learning:** Advanced System Design & GenAI
+🌱 **Currently learning:** Advanced System Design & Machine Learning
 
-⏳ **Exploring:** DevOps – Kubernetes, Jenkins & Terraform
+⏳ **Exploring:** DevOps – Kubernetes, CI/CD workflows, Jenkins & Terraform
 
-🎯 **Life Hack:** "Build. Break. Learn. Repeat."
+🎯 **Philosophy:** "Build. Break. Learn. Repeat."
 
 ⚡ **Fun fact:** I love making apps with clean UI and powerful backend logic
 
